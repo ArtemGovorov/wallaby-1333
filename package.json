@@ -1,0 +1,19 @@
+{
+  "name": "wallaby-1333",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.1.0",
+    "enzyme-adapter-react-16": "^1.0.1",
+    "enzyme-to-json": "^3.1.1",
+    "jest": "^19.0.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-test-renderer": "^16.0.0"
+  }
+}
