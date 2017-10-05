@@ -9,7 +9,7 @@ module.exports = wallaby => {
     tests: ['app/**/*.test.js'],
 
     compilers: {
-      '**/*.js': wallaby.compilers.babel(),
+      '**/*.js': wallaby.compilers.babel()
     },
 
     env: {
